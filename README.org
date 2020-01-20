@@ -1,0 +1,11 @@
+* htts
+
+This is just a little script to read lines from stdin (utilizing Haskeline, so you have nice keyindings) and output them in German (currently hard-coded) via mpv to your speakers.
+
+* Installation
+
+Not needed, just install [[https://nixos.org/nix/][Nix]] and [[https://mpv.io/][mpv]] and run the program.
+
+* Usage
+
+Type something, have it read out to you.
